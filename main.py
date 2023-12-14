@@ -59,11 +59,11 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.1)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @TAitanXBot\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @group_adda_links\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @TaitanXBot\n║\n║➣ @TaitanXDuniya\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @group_adda_links\n║\n║➣ @group_adda_links\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @TaitanXBot\n║\n║➣ @TaitanXDuniya\n║\n║➣ @TaitanXSupport\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @group_adda_links\n║\n║➣ @group_adda_links\n║\n║➣ @group_adda_links\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
